@@ -57,19 +57,6 @@ Critical – severely affects system functionality.
 Major – impacts functionality but allows continued use.
 Minor – small functional issue.
 Trivial – cosmetic or low-impact issue.
-
-Project Structure
-
-/qa-map-testing
-│
-├── Test Cases
-│   Documentation of executed test cases
-│
-├── Bug Reports
-│   Detailed record of identified defects
-│
-└── README.md
-    Project description and testing process
     
 QA Process Applied
 
